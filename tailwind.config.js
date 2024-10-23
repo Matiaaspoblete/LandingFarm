@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        inter: ['InterVariable', 'system-ui', 'sans-serif', 'Montserrat'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
