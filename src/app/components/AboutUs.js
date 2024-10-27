@@ -10,7 +10,7 @@ export default function AboutUs() {
             <p className="mt-8 lg:text-lg text-[rgb(234,242,150)]">
               We’re a family-run farm with a simple mission: to raise happy, healthy goats and provide the best farm-fresh products to our community. From humble beginnings, we’ve grown into a trusted source for goat milk, cheeses, and more—always staying true to our roots and values.
             </p>
-          </div>
+          </div>  
           <div className="mt-10">
             {/* Decorative image grid */}
             <div aria-hidden="true" className="lg:absolute lg:inset-y-0 lg:mx-auto lg:w-full lg:max-w-7xl">
