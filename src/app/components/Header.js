@@ -19,7 +19,7 @@ export default function Header() {
 
   return (
     <div className='related h-screen'>
-        <div className="bg-[url('https://i.imgur.com/aSdftvC.jpeg')] absolute inset-0 bg-cover bg-center bg-no-repeat bg-fixed opacity-40"></div>
+      <div className="bg-[url('https://i.imgur.com/aSdftvC.jpeg')] absolute inset-0 bg-cover bg-center bg-no-repeat bg-fixed opacity-40"></div>
       <header className="absolute inset-x-0 top-0 z-50">
         <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
           <div className="flex lg:flex-1">
